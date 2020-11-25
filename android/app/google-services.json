@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "697868556931",
+    "firebase_url": "https://dezine-67db0.firebaseio.com",
+    "project_id": "dezine-67db0",
+    "storage_bucket": "dezine-67db0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697868556931:android:9894f2246043108e9c99b6",
+        "android_client_info": {
+          "package_name": "akanksha.minipro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697868556931-utruot03jjpurev36a6e21ea0ghvmkpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZhxqkpphqpRmFJI2f35jG0tScGhShssw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697868556931-utruot03jjpurev36a6e21ea0ghvmkpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
